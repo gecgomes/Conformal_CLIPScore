@@ -55,7 +55,7 @@ Your workspace should look like this:
 
 ```
 ConformalFoil
-├── cache
+├── cache # Create empty to save results
 ├── data # Folder downloaded using the link above
 ├── Helpers
 ├── ci_main.py
