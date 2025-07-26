@@ -42,7 +42,7 @@ This warning is expected because these weights correspond to the text part, whic
 
 ### 📥 Download
 
-Download the dataset folder here: **[Dataset Link](#)**
+Download the dataset folder here: **[Dataset Link](https://drive.google.com/file/d/14cg33vIBIfODBmAGcmXEXkdaTK6T6mUi/view?usp=drive_link)**
 
 - The first time you run the main code, it checks if processed datasets exist locally.
 - If not found, the datasets will be **generated automatically** from the downloaded starting points.
